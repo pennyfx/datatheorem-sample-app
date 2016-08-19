@@ -1,0 +1,20 @@
+[
+  {
+    "path": "/",
+    "page": "./pages/home",
+    "chunk": "main"
+  },
+  {
+    "path": "/error",
+    "page": "./pages/error",
+    "chunk": "main"
+  },
+  {
+    "path": "/create",
+    "page": "./pages/create"
+  },
+  {
+    "path": "/customer/:id",
+    "page": "./pages/customer"
+  }
+]

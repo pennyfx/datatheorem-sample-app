@@ -1,0 +1,16 @@
+@media screen and (max-width: 1024px) {
+  .content {
+    padding: 0 16px;
+  }
+}
+
+.customer {}
+
+.customer label {
+  display: block;
+}
+
+.customer label span {
+  font-weight: 100;
+  padding-left: 5px;
+}

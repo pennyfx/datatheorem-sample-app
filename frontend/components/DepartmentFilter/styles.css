@@ -1,0 +1,13 @@
+.content {
+  height: 500px;
+  overflow-y: scroll;
+  padding: 0;
+}
+
+.content li{
+  list-style-type: none;
+}
+
+.content li span{
+  margin-left: 3px;
+}

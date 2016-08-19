@@ -1,0 +1,18 @@
+@media screen and (max-width: 1024px) {
+  .content {
+    padding: 0 16px;
+  }
+}
+
+.customer {
+
+}
+
+.customer label {
+  display: block;
+}
+
+.customer label input {
+  font-weight: 100;
+  margin-left: 5px;
+}
