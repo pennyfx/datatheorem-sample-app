@@ -1,6 +1,5 @@
 import { connect } from 'react-redux';
 import React, { PropTypes } from 'react';
-import { ReactDataGrid } from 'react-data-grid';
 import Layout from '../../components/Layout';
 import Grid from '../../components/Customer/Grid'
 import Pager from '../../components/Pager/Pager'
